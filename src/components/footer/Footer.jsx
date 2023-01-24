@@ -43,21 +43,21 @@ function Foooter() {
             </div>
           </div>
         </div>
-      </footer>
-      <div className="copyright bg-gray">
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-12">
-              <p className="p-small">
-                Copyright ©{' '}
-                <Link className="no-line" to="/">
-                  Mostafa Abdeal-Nasser
-                </Link>
-              </p>
+        <div className="copyright bg-gray">
+          <div className="container">
+            <div className="row">
+              <div className="col-lg-12">
+                <p className="p-small">
+                  Copyright ©{' '}
+                  <Link className="no-line" to="/">
+                    Mostafa Abdeal-Nasser
+                  </Link>
+                </p>
+              </div>
             </div>
           </div>
         </div>
-      </div>
+      </footer>
     </>
   );
 }

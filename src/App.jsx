@@ -9,7 +9,7 @@ import Header from './components/header/Header';
 import Contact from './components/contact/Contact';
 import About from './components/about/About';
 import Services from './components/services/Services';
-import Foooter from './components/footer/Foooter';
+import Footer from './components/footer/Footer';
 function App() {
   return (
     <>
@@ -23,7 +23,7 @@ function App() {
           element={
             <>
               <About />
-              <Foooter />
+              <Footer />
             </>
           }
         />
@@ -34,7 +34,7 @@ function App() {
           element={
             <>
               <Services />
-              <Foooter />
+              <Footer />
             </>
           }
         />
@@ -45,7 +45,7 @@ function App() {
           element={
             <>
               <Contact />
-              <Foooter />
+              <Footer />
             </>
           }
         />

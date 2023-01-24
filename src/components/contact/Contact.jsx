@@ -35,7 +35,7 @@ function Contact() {
                   id="cname"
                   required
                 />
-                <label className="label-control" for="cname">
+                <label className="label-control" htmlFor="cname">
                   Name
                 </label>
               </div>
@@ -47,7 +47,7 @@ function Contact() {
                   id="cemail"
                   required
                 />
-                <label className="label-control" for="cemail">
+                <label className="label-control" htmlFor="cemail">
                   Email
                 </label>
               </div>
@@ -58,7 +58,7 @@ function Contact() {
                   id="cmessage"
                   required
                 ></textarea>
-                <label className="label-control" for="cmessage">
+                <label className="label-control" htmlFor="cmessage">
                   Project details
                 </label>
               </div>

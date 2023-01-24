@@ -42,7 +42,7 @@ function Services() {
               <i className="fas fa-tv"></i>
               <h4>API</h4>
               <p>
-                i can setup your project to be RESTful api which will push to
+                I can setup your project to be RESTful api which will push to
                 anther dimension that can be run as web appilication or mobil app.
               </p>
             </div>
